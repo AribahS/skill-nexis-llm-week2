@@ -1,0 +1,111 @@
+{
+  "dataset": "Skill Nexis Open Name Corpus (CC0)",
+  "total_names": 6000,
+  "training_names": 5400,
+  "validation_names": 600,
+  "vocabulary_size": 42,
+  "training_steps": 1800,
+  "batch_size": 256,
+  "learning_rate": 0.025,
+  "initial_train_loss": 4.276745319366455,
+  "final_train_loss": 1.862641453742981,
+  "initial_validation_loss": 4.288956642150879,
+  "final_validation_loss": 1.8668633699417114,
+  "loss_history": [
+    {
+      "step": 0,
+      "train_loss": 4.276745319366455,
+      "validation_loss": 4.288956642150879
+    },
+    {
+      "step": 100,
+      "train_loss": 2.261029005050659,
+      "validation_loss": 2.2709808349609375
+    },
+    {
+      "step": 200,
+      "train_loss": 1.9623794555664062,
+      "validation_loss": 1.9703137874603271
+    },
+    {
+      "step": 300,
+      "train_loss": 1.9111700057983398,
+      "validation_loss": 1.9154287576675415
+    },
+    {
+      "step": 400,
+      "train_loss": 1.8925087451934814,
+      "validation_loss": 1.8962522745132446
+    },
+    {
+      "step": 500,
+      "train_loss": 1.882062315940857,
+      "validation_loss": 1.8839199542999268
+    },
+    {
+      "step": 600,
+      "train_loss": 1.876782774925232,
+      "validation_loss": 1.8775571584701538
+    },
+    {
+      "step": 700,
+      "train_loss": 1.8743478059768677,
+      "validation_loss": 1.8771435022354126
+    },
+    {
+      "step": 800,
+      "train_loss": 1.8720567226409912,
+      "validation_loss": 1.874584674835205
+    },
+    {
+      "step": 900,
+      "train_loss": 1.8704975843429565,
+      "validation_loss": 1.8724498748779297
+    },
+    {
+      "step": 1000,
+      "train_loss": 1.868315577507019,
+      "validation_loss": 1.87111496925354
+    },
+    {
+      "step": 1100,
+      "train_loss": 1.8670049905776978,
+      "validation_loss": 1.8707386255264282
+    },
+    {
+      "step": 1200,
+      "train_loss": 1.8662608861923218,
+      "validation_loss": 1.8686847686767578
+    },
+    {
+      "step": 1300,
+      "train_loss": 1.8649532794952393,
+      "validation_loss": 1.867534875869751
+    },
+    {
+      "step": 1400,
+      "train_loss": 1.8644026517868042,
+      "validation_loss": 1.8661460876464844
+    },
+    {
+      "step": 1500,
+      "train_loss": 1.864261269569397,
+      "validation_loss": 1.8651975393295288
+    },
+    {
+      "step": 1600,
+      "train_loss": 1.8640519380569458,
+      "validation_loss": 1.8657824993133545
+    },
+    {
+      "step": 1700,
+      "train_loss": 1.8632254600524902,
+      "validation_loss": 1.867462158203125
+    },
+    {
+      "step": 1800,
+      "train_loss": 1.862641453742981,
+      "validation_loss": 1.8668633699417114
+    }
+  ]
+}

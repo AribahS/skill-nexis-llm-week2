@@ -1,0 +1,29 @@
+SKILL NEXIS WEEK 2 - GENERATED SAMPLE RECORD
+Model: Character-level neural bigram language model
+Dataset: Original synthetic name corpus released under CC0
+
+BEFORE TRAINING (randomly initialized model)
+01. Starter: Al  -> AloNUxrlLC
+02. Starter: Be  -> BeAKNiisNa
+03. Starter: Ca  -> CaMOQrSmuT
+04. Starter: El  -> ElCGBw
+05. Starter: Fa  -> FalLaQIaCG
+06. Starter: Li  -> LisMFi
+07. Starter: Mi  -> MiVoSuuuar
+08. Starter: Na  -> NarJOwymRC
+09. Starter: Or  -> OruTsOGOEU
+10. Starter: Se  -> SeACUheVQO
+
+AFTER TRAINING (trained bigram model)
+01. Starter: Al  -> Aliaiarior
+02. Starter: Be  -> Beriraraer
+03. Starter: Ca  -> Cael
+04. Starter: El  -> Elaraaetha
+05. Starter: Fa  -> Faiain
+06. Starter: Li  -> Liaenanael
+07. Starter: Mi  -> Mioraaorai
+08. Starter: Na  -> Naelioraia
+09. Starter: Or  -> Oraralenor
+10. Starter: Se  -> Sesaraioni
+
+Note: These are stochastic model outputs, not curated names.
